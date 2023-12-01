@@ -8,7 +8,7 @@
 #include "OnIcerikler.h"
 
 
-
+// Yapilan Degisiklik
 typedef struct YAPI Yapi;
 
 int main()
